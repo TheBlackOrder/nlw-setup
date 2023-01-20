@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Viste o projeto online](https://theblackorder.github.io/nlw-setup/)
+- [Viste o projeto online](https://yonatrinity.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
